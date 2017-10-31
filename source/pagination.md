@@ -3,7 +3,7 @@ title: Pagination
 order: 21
 ---
 
-Sometimes, you will have one or more views in your application where you need to display a list that contains too much data to be either fetched or displayed at once. Pagination is the most common solution to this problem, and Apollo Client has built-in functionality that makes it quite easy to do.
+Sometimes you will have one or more views in your application where you need to display a list that contains too much data to be either fetched or displayed at once. Pagination is the most common solution to this problem, and Apollo Client has built-in functionality that makes it quite easy to do.
 
 There are basically two ways of fetching paginated data: numbered pages, and cursors. There are also two ways for displaying paginated data: discrete pages, and infinite scrolling. For a more in-depth explanation of the difference and when you might want to use one vs. the other, we recommend that you read our blog post on the subject: [Understanding Pagination](https://medium.com/apollo-stack/understanding-pagination-rest-graphql-and-relay-b10f835549e7).
 

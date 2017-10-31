@@ -3,7 +3,7 @@ title: GitHunt App and Schema
 order: 3
 ---
 
-In the documentation we'll show examples of using Apollo in Angular via the GitHunt example application.
+In this document we'll show examples of using Apollo in Angular via the GitHunt example application.
 
 GitHunt is a Product Hunt-style application that shows a list of GitHub repositories, sorted by votes with attached comments. [The API](https://github.com/apollographql/githunt-api) demonstrates combining two data sources--a third-party API (the GitHub API), and a local database--in a single GraphQL endpoint.
 

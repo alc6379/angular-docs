@@ -2,7 +2,7 @@
 title: TypeScript
 ---
 
-You can take an advantage of using TypeScript with `apollo-angular`.
+You can take an advantage of TypeScript with `apollo-angular`.
 
 <h2 id="generic-types">Generic types</h2>
 

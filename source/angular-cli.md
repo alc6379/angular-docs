@@ -4,16 +4,16 @@ title: Angular CLI
 
 <h2 id="installation">Installation</h2>
 
-To get started with Apollo and Angular install few needed packages. Take a look at [Installation](initialization.html#installation) section.
+To get started with Apollo and Angular install few needed packages, take a look at the [Installation](initialization.html#installation) section.
 
 <h2 id="initialization">Initialization</h2>
 
-Take a look at [Initialization](initialization.html) section.
+Take a look at the [Initialization](initialization.html) section.
 
 
 <h2 id="proxy">Proxy</h2>
 
-If your GraphQL endpoint lives under different host with Angular CLI you can easily define proxy configuration.
+If your GraphQL endpoint lives under a different host with Angular CLI you can easily define proxy configuration.
 
 Take for example `api.example.com/graphql`:
 
